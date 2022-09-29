@@ -92,7 +92,7 @@ function generateDigits() {
 * @return the array of characters
 */
 function generateSpecialChars() {
-  let chars = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '/', '?', '-', '_', '+', '=', ',', '.']
+  let chars = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '/', '?', '-', '_', '+', '=', ',', '.', '<', '>', '~', '^', '[', ']']
   return chars
 }
 
